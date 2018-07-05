@@ -1,0 +1,61 @@
+body{
+	background:rgba(0,0,0,0.2);
+	background-image:  url(../images/sunrise.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+	background-attachment: fixed;
+}
+
+.navigate{
+	text-align: right;
+	margin-top: 0;
+	padding: 40px;
+}
+
+
+.one{
+	background-color: rgba(0,0,0,0.2);
+	width:1000px;
+	margin:0 auto;
+	margin-top: 50px;
+	color: #fff;
+	text-align: center;
+	font-size: 70px;
+}
+.two{
+	background-color: rgba(25,255,29,0.2);
+	width: 700px;
+	margin:30px;
+	padding: 15px;
+}
+
+
+
+a{
+	padding: 10px;
+	margin: 10px;
+	font-size: 25px;
+	color:#fff;
+}
+
+a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+
+
+a:hover {
+    color: red;
+    background-color: orange;
+    
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
