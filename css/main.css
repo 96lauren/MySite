@@ -61,8 +61,66 @@ body{
 
 }
 
+.icondiv{
+	background-color: #ccc;
+	text-align: center;
+	min-height: 400px;
+}
 
+.book{
+	background-color: #fff;
+	width: 100px;
+	height: 100px;
+	padding: 40px;
+	color: rgba(0,0,0,0.7);
+	margin-top: 30px;
+	margin-left: 70px;
+	padding-left: 50px;
+	border-style: double;
+	border-color: maroon;
+	float: left;
+}
+  
+  .fa-book{
+  	color: maroon;
+  	text-align: center;
+  }
 
+.phones{
+	background-color: #fff;
+	width: 100px;
+	height: 100px;
+	color: rgba(0,0,0,0.7);
+	padding: 40px;
+	margin-top: 30px;
+	margin-left: 70px;
+	padding-left: 50px;
+	border-style: double;
+	border-color: maroon;
+	float: left;
+}
+
+.fa-headphones{
+  	color: maroon;
+  	text-align: center;
+  }
+  .film{
+	background-color: #fff;
+	width: 100px;
+	height: 100px;
+	padding: 40px;
+	color: rgba(0,0,0,0.7);
+	margin-top: 30px;
+	margin-left: 70px;
+	padding-left: 50px;
+	border-style: double;
+	border-color: maroon;
+	float: left;
+}
+.fa-film{
+  	color: maroon;
+  	text-align: center;
+  }
 
 a{
 	padding: 10px;
