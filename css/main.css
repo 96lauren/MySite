@@ -1,4 +1,4 @@
-body{
+#main {
 	background:rgba(0,0,0,0.2);
 	background-image:  url(../images/sunrise.jpg);
 	background-repeat: no-repeat;
@@ -8,7 +8,9 @@ body{
 	background-color: rgb(0,0,0,0.5);
 }
 
-
+#mimi {
+	background: #cbcbcb;
+}
 	
 
 
@@ -28,6 +30,22 @@ body{
 }
 
 .pot2{
+	background-color: #fff;
+	width: 500px;
+	min-height:500px;
+	margin:20px;
+	color: rgba(0,0,0,0.8);
+	margin-left: 20px;
+	margin-top: 200px;
+	padding: 10px;
+	font-size: 20px;
+	float: right;
+	border-style: double;
+	border-color: maroon;
+
+}
+
+.pot3{
 	background-color: #fff;
 	width: 500px;
 	min-height:500px;
